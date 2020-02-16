@@ -18,8 +18,8 @@
         }
     ],
 	"support": {
-		"source": "https://github.com/ssovit/helper",
-		"issues": "https://github.com/ssovit/helper/issues",
+		"source": "https://github.com/ssovit/wp-rest",
+		"issues": "https://github.com/ssovit/wp-rest/issues",
 		"email": "info@wppress.net"
 	},
 	"require": {
