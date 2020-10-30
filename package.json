@@ -1,0 +1,22 @@
+{
+  "name": "@ssovit/wp-rest",
+  "version": "1.0.0",
+  "description": "WP Rest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssovit/wp-rest.git"
+  },
+  "author": "WPPress",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssovit/wp-rest/issues"
+  },
+  "homepage": "https://github.com/ssovit/wp-rest#readme"
+}
