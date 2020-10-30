@@ -1,15 +1,9 @@
 {
 	"name": "ssovit/wp-rest",
-	"description": "Helper Class for common usage",
+	"description": "WordPress Rest API Builder Class",
 	"license": "MIT",
 	"homepage": "https://wppress.net/",
 	"authors": [
-		{
-			"name": "WPPress",
-			"email": "info@wppress.net",
-			"homepage": "https://wppress.net/",
-			"role": "Developer"
-        },
 		{
 			"name": "Sovit Tamrakar",
 			"email": "sovit.tamrakar@gmail.com",
