@@ -1,6 +1,6 @@
 {
   "name": "@ssovit/wp-rest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WP Rest",
   "main": "index.js",
   "directories": {
