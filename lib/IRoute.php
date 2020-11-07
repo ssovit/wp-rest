@@ -1,12 +1,11 @@
 <?php
 
 namespace Sovit;
+
 if (!class_exists('\Sovit\IRoute')) {
 
-    interface IRoute {
-        /**
-         * @param \WP_REST_Request $request
-         */
+    interface IRoute
+    {
         public function callback(\WP_REST_Request $request);
 
         public function getRestArgs();
