@@ -14,14 +14,11 @@
 	"support": {
 		"source": "https://github.com/ssovit/wp-rest",
 		"issues": "https://github.com/ssovit/wp-rest/issues",
-		"email": "info@wppress.net"
-	},
-	"require": {
-		"php": ">=5.3"
+		"email": "sovit.tamrakar@gmail.com"
 	},
 	"autoload": {
 		"psr-4": {
-			"Sovit\\": "lib/"
+			"Sovit\\Utilities\\": "lib/"
 		}
 	},
 	"type": "library"

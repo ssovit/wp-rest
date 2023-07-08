@@ -1,8 +1,8 @@
 <?php
 
-namespace Sovit;
+namespace Sovit\Utilities;
 
-if (!class_exists('\Sovit\Routes')) {
+if (!class_exists('\Sovit\Utilities\Routes')) {
     class Routes
     {
 
